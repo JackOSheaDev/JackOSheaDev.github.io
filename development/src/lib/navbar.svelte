@@ -3,7 +3,7 @@
 
     let offState: string = "text-default-400"
     // Define the text colour when inactive.
-    let onState: string = "text-rose-700"
+    let onState: string = "text-secondary"
 
     // All posssible states for the navbar. 
     let states: Object = {

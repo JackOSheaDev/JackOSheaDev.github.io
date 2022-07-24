@@ -69,7 +69,7 @@
 
             <!-- Create a labelled button-->
             <label>
-                <input class="btn btn-sm btn-circle" type=radio bind:group={chosen_value} value={value}>
+                <input class="radio radio-secondary radio-md" type=radio bind:group={chosen_value} value={value}>
             </label>
 
         {/each}
